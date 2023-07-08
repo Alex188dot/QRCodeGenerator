@@ -2,6 +2,14 @@
 
 This is a simple Python script that uses the Segno library to generate a QR code for a given URL.
 
+Example with no colors:
+
+![Alessio's_Github](https://github.com/Alex188dot/QRCodeGenerator/assets/117444853/dc80a1c9-defd-4e3f-a273-a44b736797ed)
+
+Example with colors (you can insert any hexadecimal color in the fields dark, for the QR code, and light, for the background):
+
+![Alessio's_Github](https://github.com/Alex188dot/QRCodeGenerator/assets/117444853/97672b64-7ded-4b23-8876-b09c9efc5953)
+
 ## Requirements
 
 - Python 3.6 or higher
